@@ -1,0 +1,14 @@
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\bin\Debug\net8.0\Ejercicio 2 POO.exe
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\bin\Debug\net8.0\Ejercicio 2 POO.deps.json
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\bin\Debug\net8.0\Ejercicio 2 POO.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\bin\Debug\net8.0\Ejercicio 2 POO.dll
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\bin\Debug\net8.0\Ejercicio 2 POO.pdb
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.dll
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\refint\Ejercicio 2 POO.dll
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.pdb
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\Ejercicio 2 POO.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\Ejercicio 2 POO\Ejercicio 2 POO\obj\Debug\net8.0\ref\Ejercicio 2 POO.dll
