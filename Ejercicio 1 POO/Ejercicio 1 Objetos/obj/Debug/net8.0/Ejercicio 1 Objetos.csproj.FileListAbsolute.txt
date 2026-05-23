@@ -1,0 +1,14 @@
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\bin\Debug\net8.0\Ejercicio 1 Objetos.exe
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\bin\Debug\net8.0\Ejercicio 1 Objetos.deps.json
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\bin\Debug\net8.0\Ejercicio 1 Objetos.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\bin\Debug\net8.0\Ejercicio 1 Objetos.dll
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\bin\Debug\net8.0\Ejercicio 1 Objetos.pdb
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.dll
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\refint\Ejercicio 1 Objetos.dll
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.pdb
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\Ejercicio 1 Objetos.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\Ejercicio 1 Objetos\Ejercicio 1 Objetos\obj\Debug\net8.0\ref\Ejercicio 1 Objetos.dll
