@@ -1,0 +1,14 @@
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\bin\Debug\net8.0\Ejercicio-6-POO.exe
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\bin\Debug\net8.0\Ejercicio-6-POO.deps.json
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\bin\Debug\net8.0\Ejercicio-6-POO.runtimeconfig.json
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\bin\Debug\net8.0\Ejercicio-6-POO.dll
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\bin\Debug\net8.0\Ejercicio-6-POO.pdb
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.AssemblyInfo.cs
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.dll
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\refint\Ejercicio-6-POO.dll
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.pdb
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\Ejercicio-6-POO.genruntimeconfig.cache
+C:\Users\sofia\source\repos\Ejercicio-6-POO\Ejercicio-6-POO\obj\Debug\net8.0\ref\Ejercicio-6-POO.dll
